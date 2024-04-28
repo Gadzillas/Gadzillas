@@ -41,10 +41,10 @@
 <a href="https://instagram.com/https://www.instagram.com/kupecif?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://wa.me/79779776339?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank">
+<a href="https://t.me/Kupecsa?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank">
 <img src=https://github.com/Gadzillas/Gadzillas/blob/main/icons8-telegram-24.png?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" height="30" />
 </a>
-<a href="https://t.me/Kupecsa" target="_blank">
+<a href="https://wa.me/79779776339" target="_blank">
 <img src=https://github.com/Gadzillas/Gadzillas/blob/main/whattsap.png?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" height="30" />
 </a>
 </div>  
