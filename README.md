@@ -51,7 +51,6 @@
   
 
 <br/>  
-https://github.com/Gadzillas/Gadzillas/blob/main/icons8-telegram-24.png
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gadzillas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
