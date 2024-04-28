@@ -40,7 +40,10 @@
 </a>
 <a href="https://instagram.com/https://www.instagram.com/kupecif?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://github.com/Gadzillas" target="_blank">
+<img src=[https://img.shields.io/badge/github-%2324292e.svg](https://www.google.com/url?sa=i&url=http%3A%2F%2Fzakuyu.ru%2F%25D0%25BA%25D0%25BE%25D0%25BD%25D1%2582%25D0%25B0%25D0%25BA%25D1%2582%25D0%25BD%25D0%25B0%25D1%258F-%25D0%25B8%25D0%25BD%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC%25D0%25B0%25D1%2586%25D0%25B8%25D1%258F&psig=AOvVaw27ivPQZDR8AKrqqGKFa0ey&ust=1714412685038000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCK44675YUDFQAAAAAdAAAAABAE)?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
